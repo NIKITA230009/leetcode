@@ -1,0 +1,15 @@
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\obj\Debug\net8.0\ConsoleKeys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\obj\Debug\net8.0\ConsoleKeys.AssemblyInfoInputs.cache
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\obj\Debug\net8.0\ConsoleKeys.AssemblyInfo.cs
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\obj\Debug\net8.0\ConsoleKeys.csproj.CoreCompileInputs.cache
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\obj\Debug\net8.0\ConsoleKeys.sourcelink.json
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\bin\Debug\net8.0\ConsoleKeys.exe
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\bin\Debug\net8.0\ConsoleKeys.deps.json
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\bin\Debug\net8.0\ConsoleKeys.runtimeconfig.json
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\bin\Debug\net8.0\ConsoleKeys.dll
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\bin\Debug\net8.0\ConsoleKeys.pdb
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\obj\Debug\net8.0\ConsoleKeys.dll
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\obj\Debug\net8.0\refint\ConsoleKeys.dll
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\obj\Debug\net8.0\ConsoleKeys.pdb
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\obj\Debug\net8.0\ConsoleKeys.genruntimeconfig.cache
+C:\Users\nik-a\C# projects\LearningC#\ConsoleKeys\obj\Debug\net8.0\ref\ConsoleKeys.dll
