@@ -1,0 +1,15 @@
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\bin\Debug\net8.0\PalindromeCheker.exe
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\bin\Debug\net8.0\PalindromeCheker.deps.json
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\bin\Debug\net8.0\PalindromeCheker.runtimeconfig.json
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\bin\Debug\net8.0\PalindromeCheker.dll
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\bin\Debug\net8.0\PalindromeCheker.pdb
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\obj\Debug\net8.0\PalindromeCheker.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\obj\Debug\net8.0\PalindromeCheker.AssemblyInfoInputs.cache
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\obj\Debug\net8.0\PalindromeCheker.AssemblyInfo.cs
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\obj\Debug\net8.0\PalindromeCheker.csproj.CoreCompileInputs.cache
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\obj\Debug\net8.0\PalindromeCheker.sourcelink.json
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\obj\Debug\net8.0\PalindromeCheker.dll
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\obj\Debug\net8.0\refint\PalindromeCheker.dll
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\obj\Debug\net8.0\PalindromeCheker.pdb
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\obj\Debug\net8.0\PalindromeCheker.genruntimeconfig.cache
+c:\Users\nik-a\C# projects\LearningC#\PalindromeCheker\obj\Debug\net8.0\ref\PalindromeCheker.dll
